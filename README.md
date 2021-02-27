@@ -1,4 +1,4 @@
-# Mixup-CIFAR10
+# 数据增强-Mixup-CIFAR10
 By [Hongyi Zhang](http://web.mit.edu/~hongyiz/www/), [Moustapha Cisse](https://mine.kaust.edu.sa/Pages/cisse.aspx), [Yann Dauphin](http://dauphin.io/), [David Lopez-Paz](https://lopezpaz.org/).
 
 Facebook AI Research
